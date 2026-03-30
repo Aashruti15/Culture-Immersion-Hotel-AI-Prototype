@@ -76,4 +76,4 @@ This prototype successfully demonstrates how AI can transform hotel stays into i
 
 
 # app link
-https://www.figma.com/make/WotkLmZUJHGpp53QJllDz7/Generate-Design-Prototype?t=vKhdnDKFsohGbRb4-1
+https://www.figma.com/community/file/1620261532489838417/globequesthotels-figma-site?fuid=1618496723698272873
